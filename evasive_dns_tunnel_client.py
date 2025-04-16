@@ -27,7 +27,7 @@ MAX_DELAY = 2.0                  # Max delay between queries (seconds)
 
 # WARNING: Hardcoded key is insecure! For demo purposes only.
 # Must be 16, 24, or 32 bytes long. MATCHES SERVER-SIDE DECRYPTION KEY.
-AES_KEY = b'MySecureKeyForDNSTunneling12345' # 32 bytes for AES-256
+AES_KEY = b'MySecureKeyForDNSTunneling123456' # 32 bytes for AES-256
 # ---------------------
 
 # AES-GCM constants
